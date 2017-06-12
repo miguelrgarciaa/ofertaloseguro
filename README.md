@@ -1,5 +1,5 @@
 # ofertaloseguro
-<!DOCTYPE html>
+
   <html> 
 <img src="https://2.bp.blogspot.com/-8FUgdpRQSs8/WT3GNkVpKEI/AAAAAAAAE0U/jx0moyabzygCnQ0s_COfm51YDiB8OxrigCLcB/s1600/1.jpg"> <br>
 	
